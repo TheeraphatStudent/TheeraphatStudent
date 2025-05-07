@@ -43,7 +43,9 @@
       src="https://github-readme-stats.vercel.app/api?username=theeraphatstudent&show_icons=true&locale=en"
       alt="theeraphatstudent" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheeraphatStudent&"
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theeraphatstudent&"
       alt="theeraphatstudent" /></p>
+
+  ![Profile view counter on GitHub](https://github.com/TheeraphatStudent)
 
 </div>
