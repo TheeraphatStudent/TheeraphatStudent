@@ -43,7 +43,7 @@
       src="https://github-readme-stats.vercel.app/api?username=theeraphatstudent&show_icons=true&locale=en"
       alt="theeraphatstudent" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theeraphatstudent&"
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheeraphatStudent&"
       alt="theeraphatstudent" /></p>
 
 </div>
