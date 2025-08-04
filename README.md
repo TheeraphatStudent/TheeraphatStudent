@@ -7,7 +7,7 @@
 
   - 🌱 I’m currently learning **Framwork, Web Layout**
 
-  - 💬 Ask me about **React, tailwind, Next.js**
+  - 💬 Ask me about **Angular, Flutter, React, tailwind, Next.js, etc**
 
   - 📫 How to reach me **theeraphatchueanokkhum@gmail.com**
 
