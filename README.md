@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theeraphat-chueanokkhum)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theeraphatstudent)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@theeraphatchueanokkhum)
-[![Download CV](https://img.shields.io/badge/Download_CV-2E9EF7?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1grSZj0aEpFqhHx2MGOQVSH_LdhQinwwv/view?usp=drive_link)
+[![Download CV](https://img.shields.io/badge/Download_CV-2E9EF7?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.usercontent.google.com/u/0/uc?id=1grSZj0aEpFqhHx2MGOQVSH_LdhQinwwv&export=download)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=theeraphatstudent&color=2E9EF7&style=for-the-badge)
 
